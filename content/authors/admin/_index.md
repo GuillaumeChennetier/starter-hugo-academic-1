@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Guillaume Chennetier
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Guillaume
+last_name: Chennetier
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💡
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,9 +26,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Monte-Carlo methods
+  - Rare event simulation
+  - Reliability assessment
 
 # Education to show in About widget
 education:
